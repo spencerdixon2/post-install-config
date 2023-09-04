@@ -49,3 +49,14 @@ Supreme Admin
 Configure Departments
 Admin Panel -> Agents -> Departments
 System Administrators
+
+
+
+<img width="832" alt="Screen Shot 2023-09-04 at 12 57 17 PM" src="https://github.com/spencerdixon2/post-install-config/assets/143224941/2faf6024-faa1-4f8e-a77f-7003dfa2a8a7">
+
+
+
+Configure Teams
+Admin Panel -> Agents -> Teams
+Level I Support
+Level II Support
