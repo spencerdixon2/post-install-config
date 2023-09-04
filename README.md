@@ -94,3 +94,15 @@ Configure Users (customers)
 Agent Panel -> Users -> Add New
 Karen
 Ken
+
+
+
+<img width="838" alt="Screen Shot 2023-09-04 at 1 20 34 PM" src="https://github.com/spencerdixon2/post-install-config/assets/143224941/f6c9212f-b62f-4c11-a75b-7c8839d474ae">
+
+
+
+Configure SLA
+Admin Panel -> Manage -> SLA
+Sev-A (1 hour, 24/7)
+Sev-B (4 hours, 24/7)
+Sev-C (8 hours, business hours)
