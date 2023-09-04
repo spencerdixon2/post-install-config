@@ -39,3 +39,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 Configure Roles
 Admin Panel -> Agents -> Roles
 Supreme Admin
+
+
+
+<img width="849" alt="Screen Shot 2023-09-04 at 12 53 34 PM" src="https://github.com/spencerdixon2/post-install-config/assets/143224941/90d4dc12-4b62-4a24-ae4a-88ba57d2f193">
+
+
+
+Configure Departments
+Admin Panel -> Agents -> Departments
+System Administrators
