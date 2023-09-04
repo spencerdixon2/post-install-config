@@ -70,3 +70,7 @@ Level II Support
 Allow anyone to create tickets
 Admin Panel -> Settings -> User Settings
 Registration Required: Require registration and login to create tickets 
+
+
+
+<img width="841" alt="Screen Shot 2023-09-04 at 1 06 16 PM" src="https://github.com/spencerdixon2/post-install-config/assets/143224941/76c6a9b0-b203-49a7-8c64-07599ac6a27e">
