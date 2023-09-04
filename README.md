@@ -60,3 +60,13 @@ Configure Teams
 Admin Panel -> Agents -> Teams
 Level I Support
 Level II Support
+
+
+
+<img width="843" alt="Screen Shot 2023-09-04 at 1 01 28 PM" src="https://github.com/spencerdixon2/post-install-config/assets/143224941/a60c4811-d2e4-4598-8f30-305c580e2506">
+
+
+
+Allow anyone to create tickets
+Admin Panel -> Settings -> User Settings
+Registration Required: Require registration and login to create tickets 
