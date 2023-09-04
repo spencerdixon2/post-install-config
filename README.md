@@ -82,3 +82,15 @@ Configure Agents (workers)
 Admin Panel -> Agents -> Add New
 Jane
 John
+
+
+
+<img width="843" alt="Screen Shot 2023-09-04 at 1 13 47 PM" src="https://github.com/spencerdixon2/post-install-config/assets/143224941/585ec1e2-d845-4849-8f73-54498ff46854">
+<img width="844" alt="Screen Shot 2023-09-04 at 1 15 18 PM" src="https://github.com/spencerdixon2/post-install-config/assets/143224941/5dfae607-5a31-4596-9a2c-5962327a301f">
+
+
+
+Configure Users (customers)
+Agent Panel -> Users -> Add New
+Karen
+Ken
