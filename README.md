@@ -106,3 +106,17 @@ Admin Panel -> Manage -> SLA
 Sev-A (1 hour, 24/7)
 Sev-B (4 hours, 24/7)
 Sev-C (8 hours, business hours)
+
+
+
+<img width="841" alt="Screen Shot 2023-09-04 at 1 25 28 PM" src="https://github.com/spencerdixon2/post-install-config/assets/143224941/f95993a4-1742-458d-acae-5e97e19b060b">
+<img width="840" alt="Screen Shot 2023-09-04 at 1 26 32 PM" src="https://github.com/spencerdixon2/post-install-config/assets/143224941/98924799-4bdf-4ba4-a772-7e67d261a0a7">
+
+
+
+Configure Help Topics
+Admin Panel -> Manage -> Help Topics
+Business Critical Outage
+Personal Computer Issues
+Equipment Request
+Password Reset
